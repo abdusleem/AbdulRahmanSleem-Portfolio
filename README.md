@@ -15,7 +15,7 @@ I specialize in creating interactive dashboards and business reports that drive 
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| 🏦 [Bank Performance Analysis](#) | SQL, Power BI |
+| 🏦 [Bank Performance Analysis](https://github.com/abdusleem/Bank-Performance-Analysis) | SQL, Power BI |
 | 🛒 [Supermarket Sales Dashboard](#) | Excel, Power BI |
 | 🚴‍♂️ [Bike Sales Analysis](#) | Excel |
 
