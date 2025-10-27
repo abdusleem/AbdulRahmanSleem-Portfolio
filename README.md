@@ -15,6 +15,7 @@ I specialize in creating interactive dashboards and business reports that drive 
 
 | Project | Tools |
 |----------|--------|
+| 🛒 [Shyaka Store](https://github.com/abdusleem/Shyaka-Store) | Excel, Power BI |
 | 🏦 [Bank Performance Analysis](https://github.com/abdusleem/Bank-Performance-Analysis) | SQL, Power BI |
 | 🛒 [Supermarket Sales Dashboard](https://github.com/abdusleem/Supermarket-Sales) | Excel, Power BI |
 | 🚴‍♂️ [Bike Sales Analysis](#) | Excel |
